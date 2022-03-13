@@ -214,7 +214,7 @@ _pkginfo.txt
 *.appxupload
 
 # Visual Studio cache files
-# files ending in .cache can be ignored
+# files ending in .cache can be ignored,or should be implemated in the end
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
